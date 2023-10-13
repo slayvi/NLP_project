@@ -1,4 +1,5 @@
-# NLP_project
+# Project: NLP - Sentiment Analysis
+
 This repository was created for my studies at IU International University for the course Project: NLP.
 
 &nbsp;
@@ -12,6 +13,8 @@ The Deep Learning model with word embeddings is located in file **deep_learning.
 
 In the folders, there are some plots of metrics, the resulting models saved (except the SVM model, out of size restrictions by github) and the logs of tensorboard. 
 
+&nbsp;
+&nbsp;
 
 ### Prepare your environment:
 
@@ -31,6 +34,7 @@ pip install -r requirements.txt
 
 &nbsp;
 
+&nbsp;
 
 
 ### Run sentiment analysis on own data:
