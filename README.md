@@ -3,6 +3,16 @@ This repository was created for my studies at IU International University for th
 
 &nbsp;
 
+
+
+### The Repository:
+The preprocessing steps are located in the file **preprocess.ipynb**.
+The sentiment analysis with supervised machine learning models (BernoulliNB and SVM) are located in file **supervised_NB_SVM.ipynb**.
+The Deep Learning model with word embeddings is located in file **deep_learning.ipynb**. 
+
+In the folders, there are some plots of metrics, the resulting models saved (except the SVM model, out of size error by github). 
+
+
 ### Prepare your environment:
 
 For stable usage of the application, **python version 3.10** is recommended. Install python from the [official website](https://www.python.org/). Check your python version with entering your command promt and execute the following command:
@@ -21,7 +31,9 @@ pip install -r requirements.txt
 
 &nbsp;
 
-## Run sentiment analysis on own data:
+
+
+### Run sentiment analysis on own data:
 
 First download the code by either downloading the .zip-File or clone it via the command promt. For more information about the later please check the [github docs](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
 
