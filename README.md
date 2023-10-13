@@ -1,7 +1,9 @@
 # NLP_project
 This repository was created for my studies at IU International University for the course Project: NLP.
 
-### Prepare your environment for the use of the Application
+&nbsp;
+
+### Prepare your environment:
 
 For stable usage of the application, **python version 3.10** is recommended. Install python from the [official website](https://www.python.org/). Check your python version with entering your command promt and execute the following command:
 
