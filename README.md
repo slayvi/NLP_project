@@ -10,6 +10,7 @@ This repository was created for my studies at IU International University for th
 The preprocessing steps are located in the file **preprocess.ipynb**.
 The sentiment analysis with supervised machine learning models (BernoulliNB and SVM) are located in file **supervised_NB_SVM.ipynb**.
 The Deep Learning model with word embeddings is located in file **deep_learning.ipynb**. 
+A small function that allows classification of user customed reviews is located in file **predict.py**. 
 
 In the folders, there are some plots of metrics, the resulting models saved (except the SVM model, out of size restrictions by github) and the logs of tensorboard. 
 
