@@ -10,7 +10,7 @@ The preprocessing steps are located in the file **preprocess.ipynb**.
 The sentiment analysis with supervised machine learning models (BernoulliNB and SVM) are located in file **supervised_NB_SVM.ipynb**.
 The Deep Learning model with word embeddings is located in file **deep_learning.ipynb**. 
 
-In the folders, there are some plots of metrics, the resulting models saved (except the SVM model, out of size error by github). 
+In the folders, there are some plots of metrics, the resulting models saved (except the SVM model, out of size restrictions by github) and the logs of tensorboard. 
 
 
 ### Prepare your environment:
